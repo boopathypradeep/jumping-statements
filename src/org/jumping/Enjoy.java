@@ -8,6 +8,13 @@ public Enjoy(String name) {
 public Enjoy(int id) {
 	// TODO Auto-generated constructor stub
 }
-	
+public CompanyInfo(int id) {
+	System.out.println("Company name is:"+id);public CompanyInfo(int id) {
+		System.out.println("Company name is:"+id);public CompanyInfo(int id) {
+			System.out.println("Company name is:"+id);public CompanyInfo(int id) {
+				System.out.println("Company name is:"+id);public CompanyInfo(int id) {
+					System.out.println("Company name is:"+id);public CompanyInfo(int id) {
+						System.out.println("Company name is:"+id);public CompanyInfo(int id) {
+							System.out.println("Company name is:"+id);	
 	
 }
